@@ -4,7 +4,7 @@ Dagruber is a colorscheme inspired by [gruber-darker](https://github.com/rexim/g
 # Installation
 With [Packer](https://github.com/wbthomason/packer.nvim):
 ```lua
-use { "deablofk/Dagruber.nvim", requires = "rktjmp/lush.nvim" }
+use { "deablofk/dagruber", requires = "rktjmp/lush.nvim" }
 ``` 
 
 # Screenshot
